@@ -1,6 +1,3 @@
----
-title: "init"
-date: 2022-11-27T20:25:24+08:00
----
+# posts
 
-Initialize my site again and again!
+Here contains all my posts of my personal site.
